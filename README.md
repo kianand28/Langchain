@@ -1,4 +1,5 @@
-"LangChain and LLaMA2 Integration for Text-to-Image Generation using Streamlit"
+"LangChain and LLaMA2 Integration for Text-to-Image Generation using Streamlit" -
+
 This project demonstrates the integration of the LangChain framework with the LLaMA2 large language model (LLM) to create a text-to-image generator application using the Streamlit framework. Below is a step-by-step summary of the project:
 
 Imports and Setup:
